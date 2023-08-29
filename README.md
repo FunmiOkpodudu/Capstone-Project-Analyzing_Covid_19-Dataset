@@ -20,18 +20,24 @@ The primary objective of this project is to analyze and gain insights from COVID
 ## Data Summary
 Fetch the summary of the table datatypes for each column.
 
+Certainly, here's the revised "Instructions" section based on your provided content:
+
 ## Instructions
-Follow these instructions to achieve project goals:
+Ensure that PostgreSQL is used as the designated database tool for this project. Follow these steps to successfully complete the project:
 
-1. **Database Creation**: Create a PostgreSQL database named 'covid_19_data' to store the COVID-19 dataset.
+1. **Database and Table Creation**: Start by establishing a database named 'covid_19_data'. Within this database, create a table named 'covid_19_data' specifically designed to accommodate the dataset.
 
-2. **Table Creation**: Within the 'covid_19_data' database, create a table named 'covid_19_data' using the appropriate data types for each column as indicated in the data summary.
+2. **Data Type Modification**: Modify the data type of the 'ObservationDate' column within the 'covid_19_data' table. Change it from its initial 'String' representation to the more appropriate 'DATE' data type.
 
-3. **Data Type Modification**: Change the data type of the 'ObservationDate' column to 'DATE' within the DataFrame.
+3. **Data Extraction and Loading**: Utilize a Python script to procure the 'Covid_19_data.csv' file. Once obtained, load the data from this file into the 'covid_19_data' table within the PostgreSQL database. Ensure that data integrity is maintained during this process.
 
-4. **Data Extraction and Loading**: Use Python to read the 'Covid_19_data.csv' file and load it into the 'covid_19_data' table in the PostgreSQL database. Utilize the `psycopg2` and `SQLAlchemy` libraries to interact with the database.
+4. **SQL Queries Using PostgreSQL PGAdmin**: Leverage PostgreSQL PGAdmin, a powerful database management tool, for both creating and executing SQL queries. Use this platform to gain insights from the dataset and answer relevant questions.
 
-5. **SQL Queries**: Use PostgreSQL PGAdmin to create and execute SQL queries. Present all queries within a single SQL file.
+5. **Consolidated SQL File**: Document your SQL queries within a singular SQL file. This consolidated file should include all the SQL queries you create during the project. Organize the file for clarity and readability.
+
+By following these instructions, you will systematically utilize PostgreSQL for establishing the database, loading the data, and conducting SQL queries. The provided steps will enable you to effectively analyze the COVID-19 dataset and draw meaningful conclusions.
+
+Feel free to adapt these instructions based on your project's requirements and the tools you're using.
 
 ## How It Works
 1. **Database Creation**: Use PgAdmin to create a new PostgreSQL database named 'covid_19_data'.
