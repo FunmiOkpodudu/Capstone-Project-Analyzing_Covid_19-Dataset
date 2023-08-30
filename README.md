@@ -1,3 +1,15 @@
+
+![image](https://github.com/FunmiOkpodudu/Capstone-Project-Analyzing_Covid_19-Dataset/assets/134555960/339fda48-5dde-464f-a335-8a371056cdaa)
+
+
+
+
+
+
+
+
+
+
 # Data Engineering Capstone Project 1 (Analyzing COVID-19 Data)
 
 ## Table of Contents
