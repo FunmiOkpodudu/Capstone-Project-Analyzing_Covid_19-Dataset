@@ -43,7 +43,7 @@ Feel free to adapt these instructions based on your project's requirements and t
 
 
 
-<center> ![image](https://github.com/FunmiOkpodudu/Capstone-Project-Analyzing_Covid_19-Dataset/assets/134555960/f7dc81a9-b629-4115-a373-7d8dce7ea141)</center>
+ ![image](https://github.com/FunmiOkpodudu/Capstone-Project-Analyzing_Covid_19-Dataset/assets/134555960/f7dc81a9-b629-4115-a373-7d8dce7ea141)
 
 
 ## How It Works
