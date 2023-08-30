@@ -1,15 +1,4 @@
 
-![image](https://github.com/FunmiOkpodudu/Capstone-Project-Analyzing_Covid_19-Dataset/assets/134555960/339fda48-5dde-464f-a335-8a371056cdaa)
-
-
-
-
-
-
-
-
-
-
 # Data Engineering Capstone Project 1 (Analyzing COVID-19 Data)
 
 ## Table of Contents
@@ -17,6 +6,7 @@
 - [Objective](#objective)
 - [Data Summary](#data-summary)
 - [Instructions](#instructions)
+- [Diagram Explanation](#Diagram-Explanation)
 - [How It Works](#how-it-works)
 - [Loading the Data](#loading-the-data)
 - [Requirements](#requirements)
@@ -50,6 +40,11 @@ Ensure that PostgreSQL is used as the designated database tool for this project.
 By following these instructions, you will systematically utilize PostgreSQL for establishing the database, loading the data, and conducting SQL queries. The provided steps will enable you to effectively analyze the COVID-19 dataset and draw meaningful conclusions.
 
 Feel free to adapt these instructions based on your project's requirements and the tools you're using.
+
+
+
+<center> ![image](https://github.com/FunmiOkpodudu/Capstone-Project-Analyzing_Covid_19-Dataset/assets/134555960/f7dc81a9-b629-4115-a373-7d8dce7ea141)</center>
+
 
 ## How It Works
 1. **Database Creation**: Use PgAdmin to create a new PostgreSQL database named 'covid_19_data'.
